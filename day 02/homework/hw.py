@@ -18,3 +18,7 @@ print("gamarjobaa")
 print("ok")
 print("hello")
 print("goa is best")
+
+
+
+print("ჯერ არავინ გავიცანი")
